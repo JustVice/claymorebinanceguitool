@@ -12,12 +12,12 @@ namespace ClaymoreUITool.UI
 
         private void button_source_code_Click(object sender, EventArgs e)
         {
-            OPEN_BROWSER_WITH_URL("https://github.com/justvice/claymorebinanceguitool");
+            OPEN_BROWSER_WITH_URL("https://github.com/SPLITVICE/claymorebinanceguitool");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            OPEN_BROWSER_WITH_URL("http://just-vice.com");
+            OPEN_BROWSER_WITH_URL("https://split-vice.com");
         }
 
         public static void OPEN_BROWSER_WITH_URL(string url)

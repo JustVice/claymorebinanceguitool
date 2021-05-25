@@ -40,9 +40,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(25, 31);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(169, 13);
+            this.label1.Size = new System.Drawing.Size(172, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Application created by JUST VICE";
+            this.label1.Text = "Application created by SPLIT VICE";
             // 
             // button_source_code
             // 
@@ -60,7 +60,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(131, 23);
             this.button1.TabIndex = 2;
-            this.button1.Text = "JUST VICE\'s web page";
+            this.button1.Text = "SPLIT VICE web page";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -80,7 +80,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(69, 13);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Version 1.0.0";
+            this.label3.Text = "Version 1.0.1";
             // 
             // About
             // 
